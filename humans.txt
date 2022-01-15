@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Aditi Saxena	aditi@git.training	@aditi
 
 # THANKS
 
