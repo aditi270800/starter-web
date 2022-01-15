@@ -1,6 +1,6 @@
 # Starter Web project
 
-This repository is for showing how Git and GitHub work together. Adding a file for rebasing Example.
+This repository is for showing how Git and GitHub work together. Adding a file for rebasing Example,then more changes from myfeature branch too.
 
 ## Introduction
 
