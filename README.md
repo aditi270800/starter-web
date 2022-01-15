@@ -1,10 +1,10 @@
 # Starter Web project
 
-This repository is for showing how Git and GitHub work together
+This repository is for showing how Git and GitHub work together. Adding a file for rebasing Example.
 
 ## Introduction
 
-Tgis example is to show different parts of the git repository and various commands using web projects.
+This example is to show different parts of the git repository and various commands using web projects.
 
 ## Purpose
 
