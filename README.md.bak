@@ -17,3 +17,8 @@ This is a simple web projects, deployment can be on any server or even local fil
 ## How to contribute
 
 
+### Copyright 
+
+2014 Git.training
+
+
